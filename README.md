@@ -6,5 +6,5 @@ Replication code for Bucca & Daniela Urbina 2019. ["Lasso regularization for sel
 # Instructions
 
 - Download code and data files.
-- Open 3_MasterFile.R and set directories
+- Open 3_MasterFile.R and set working directories
 - Run 3_MasterFile.R
